@@ -103,22 +103,6 @@ files/
        report.pdf
 ```
 
----
-
-## 📸 Output Screenshot
-
-(Add a screenshot of the program output here)
-
-Example placeholder:
-
-```
-docs/output.png
-```
-
-![Program Output](docs/output.png)
-
----
-
 ## 🧠 Concepts Practiced
 
 This project demonstrates several Rust concepts:
